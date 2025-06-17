@@ -1,4 +1,4 @@
-# Ecomarket
+# ModaTrend
 hacer el proyecto en GitHub y en Brunch hacer el presupuesto, carta Gantt. Otra los diagramas, mockups.
 cada rama es la documentación del proyecto.
 
