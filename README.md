@@ -1,18 +1,10 @@
-# ModaTrend
-hacer el proyecto en GitHub y en Brunch hacer el presupuesto, carta Gantt. Otra los diagramas, mockups.
-cada rama es la documentación del proyecto.
+# Contexto
+Nosotros como empresa recibimos el llamado de la empresa ModaTrend para que les brindaremos el servicio de mejorar su sistema de empresa. Aceptando el trabajo nos familiarizamos con su sistema. ModaTrend cuenta con 10 sucursales y un eComerce que hasta el momento presentan diferentes falencias y otras más solicitudes que quieren que implementemos. Con nuestro equipo de trabajo es que proponemos una solución.
 
-Lo que hay que entregar ahora es el prototipo funcional. (sin programar, solo mostrarle al cliente la navegación por las diferentes fases del proyecto de manera dinámica (Básicamente Figma))
+Para comenzar analizamos la problemática y las peticiones del cliente. De esa forma es que logramos identificar 10 requerimientos funcionales y No funcionales. Así es que con el equipo de trabajo declaramos nuestros objetivos por cumplir y empezamos a organizarnos.
 
-Próximo martes solo GitHub y prototipo. O Viernes los que falten.Esto es la evaluación 3. Después se dará el examen.
+Nuestros diseñadores se ponen en marcha con los diagramas de las soluciones de sistema. Se realizan dos diagramas UML, uno de Entidad-Relación y 4 MockUps que nos servirán a la hora de comenzar a desarrollar.
 
-En la documentación se entrega todo lo hecho en el semestre. 
+Ya teniendo identificado nuestros roles y las respectivas funciones es que se realiza la carta gantt, herramienta que ayuda a visualizar el tiempo que tomará el proyecto y los costos del mismo.
 
-
-En el repositorio del GitHub en una brunch etiquetada, diagrama 4+1, otra con requerimientos y la tabla de requerimiento. Otra org del proyecto y el equipo del proyecto
-Tiene que haber una Branch de código pero debe estar en blanco.
-
-
-Un integrante presenta el GitHub y otro el prototipo funcional o se lo reparten (porque la nota es individual) Si sólo presenta uno y se comparten la nota se debe elegir el mejor. Al presentar hay que repetir el contexto del caso. Primero GitHub y luego el prototipo funcional. 10 minutos max.
-
-Plantilla de requerimientos. Por cada requerimientos hay que elaborar al menos una prueba a proponer al equipo de desarrollo. Hacerlo en su propia Branch de prueba . Cada requerimiento debe tener su propia plantilla. Solo los requisitos funcionales.
+Terminado el proceso de desarrollo es que podemos pasar a el testeo de nuestro sistema. Una variedad de pruebas son ejecutadas en el sistema para asegurar su eficacia y resiliencia. Así al superarlas es que podemos pasar a la marcha blanca del Sistema.
